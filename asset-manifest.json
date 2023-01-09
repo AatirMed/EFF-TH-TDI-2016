@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EFF-TH-TDI-2016/static/css/main.655b9feb.css",
+    "main.js": "/EFF-TH-TDI-2016/static/js/main.b20305d2.js",
+    "static/js/787.b1e5244c.chunk.js": "/EFF-TH-TDI-2016/static/js/787.b1e5244c.chunk.js",
+    "index.html": "/EFF-TH-TDI-2016/index.html",
+    "main.655b9feb.css.map": "/EFF-TH-TDI-2016/static/css/main.655b9feb.css.map",
+    "main.b20305d2.js.map": "/EFF-TH-TDI-2016/static/js/main.b20305d2.js.map",
+    "787.b1e5244c.chunk.js.map": "/EFF-TH-TDI-2016/static/js/787.b1e5244c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655b9feb.css",
+    "static/js/main.b20305d2.js"
+  ]
+}
